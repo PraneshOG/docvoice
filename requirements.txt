@@ -1,0 +1,6 @@
+streamlit
+streamlit-mic-recorder
+openai-whisper
+torch
+transformers
+sentencepiece
